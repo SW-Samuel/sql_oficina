@@ -2,14 +2,11 @@
 
 ## Descrição
 Este projeto tem como objetivo a modelagem conceitual e lógica de um banco de dados para gerenciar uma **Oficina Mecânica**.  
-O esquema foi construído para atender aos principais processos do negócio, como:
 
 - Registro de **clientes** e seus respectivos **carros**.  
 - Criação e acompanhamento de **ordens de serviço**.  
 - Controle de **serviços executados** e **peças utilizadas**.  
 - Organização de **equipes de mecânicos** responsáveis pelas ordens de serviço.  
-
-O modelo está estruturado para permitir uma visão completa do fluxo de trabalho da oficina, desde a entrada do veículo até a conclusão do serviço.
 
 ---
 
